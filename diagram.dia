@@ -2245,16 +2245,16 @@
         <dia:point val="10.05,-3.65"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="9.2,-9.77149;12.1465,-3.6"/>
+        <dia:rectangle val="9.2,-10.1215;27.2465,-3.6"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
       </dia:attribute>
       <dia:attribute name="orth_points">
         <dia:point val="10.05,-3.65"/>
-        <dia:point val="10.05,-7.08574"/>
-        <dia:point val="12.0965,-7.08574"/>
-        <dia:point val="12.0965,-9.72149"/>
+        <dia:point val="10.05,-7.26075"/>
+        <dia:point val="27.1965,-7.26075"/>
+        <dia:point val="27.1965,-10.0715"/>
       </dia:attribute>
       <dia:attribute name="orth_orient">
         <dia:enum val="1"/>
@@ -2555,16 +2555,16 @@
     </dia:object>
     <dia:object type="UML - Note" version="0" id="O24">
       <dia:attribute name="obj_pos">
-        <dia:point val="1.63649,-12.2215"/>
+        <dia:point val="16.7365,-12.5715"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="1.58649,-12.2715;22.6065,-9.67149"/>
+        <dia:rectangle val="16.6865,-12.6215;37.7065,-10.0215"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="1.63649,-12.2215"/>
+        <dia:point val="16.7365,-12.5715"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="20.920000000000002"/>
@@ -2585,7 +2585,7 @@ pewnie inaczehj będzie potrzebował intertpetowć maze#</dia:string>
             <dia:real val="0.80000000000000004"/>
           </dia:attribute>
           <dia:attribute name="pos">
-            <dia:point val="1.98649,-10.9774"/>
+            <dia:point val="17.0865,-11.3274"/>
           </dia:attribute>
           <dia:attribute name="color">
             <dia:color val="#000000ff"/>
